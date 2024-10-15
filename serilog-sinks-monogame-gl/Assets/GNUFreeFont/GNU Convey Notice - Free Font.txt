@@ -1,0 +1,8 @@
+As per GNU v3.00, let this serve as notice that the "GNU Free Font" is being conveyed (propagated) with this software as described in sections 5 and 6.
+
+5(a) - This work has been modified. Only the regular mono and bold mono fonts have been included, and those have both been converted (as accurately as possible) to the SpringFont format, presented in C#. As to be consumable by this software.
+
+5(b) - This modified version of the "GNU Free Font" is released under its original GNU v3.00 license, which is included with this notice and available at this permalink: https://www.fontsquirrel.com/license/gnu-free-font 
+
+6(d) - The original object code may be accessed, gratis, at this link: https://www.fontsquirrel.com/fonts/gnu-free-font
+       The modified source code is available, gratis, alongside this notice.
