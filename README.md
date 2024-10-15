@@ -1,1 +1,0 @@
-# serilog-sinks-monogame-gl
