@@ -6,8 +6,10 @@
     <Nullable>enable</Nullable>
 	<RootNamespace>RunnethOverStudio.SerilogSinksMonoGameGL</RootNamespace>
 	<AssemblyName>RunnethOverStudio.SerilogSinksMonoGameGL</AssemblyName>
+	<Authors>Runneth Over Studio, LLC</Authors>
 	<Copyright>© Runneth Over Studio, LLC</Copyright>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageProjectUrl>https://github.com/Runneth-Over-Studio/serilog-sinks-monogame-gl</PackageProjectUrl>
 	<RepositoryUrl>https://github.com/Runneth-Over-Studio/serilog-sinks-monogame-gl</RepositoryUrl>
 	<Description>A Serilog sink that writes events to a MonoGame DrawableGameComponent.</Description>
 	<Version>1.0.2</Version>
