@@ -6,7 +6,7 @@
 
 A Serilog sink that writes events to a MonoGame DrawableGameComponent as well as System.Diagnotics.Debug listeners. Provides an overlay of the log events that can be toggled on and off using the tilde key.
 
-### Use
+### Usage
 Configure Serilog like you normally would, just choosing the MonoGameSink to write to:
 
 ```
@@ -18,3 +18,6 @@ Configure Serilog like you normally would, just choosing the MonoGameSink to wri
   return new SerilogLoggerFactory(Serilog.Log.Logger)
       .CreateLogger(nameof(Game1));
 ```
+
+### Release
+For a quick & simple implementation, the latest release is available in the [NuGet Gallery](https://www.nuget.org/packages/RunnethOverStudio.SerilogSinksMonoGameGL/1.0.1). However, the source code is pretty straightforward and could be copied into your own solution and easily modified to meet your specific requirements.
