@@ -208,7 +208,6 @@ public class MonoGameSink : DrawableGameComponent, ILogEventSink
         if (disposing)
         {
             Game.Window.ClientSizeChanged -= GameWindow_ClientSizeChanged;
-            _channel.Writer.Complete();
             _spriteBatch?.Dispose();
         }
 
