@@ -10,7 +10,7 @@
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<RepositoryUrl>https://github.com/Runneth-Over-Studio/serilog-sinks-monogame-gl</RepositoryUrl>
 	<Description>A Serilog sink that writes events to a MonoGame DrawableGameComponent.</Description>
-	<Version>1.0.0</Version>
+	<Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
