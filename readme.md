@@ -20,4 +20,4 @@ Configure Serilog like you normally would, just choosing the MonoGameSink to wri
 ```
 
 ### Release
-For a quick & simple implementation, the latest release is available in the [NuGet Gallery](https://www.nuget.org/packages/RunnethOverStudio.SerilogSinksMonoGameGL/1.0.1). However, the source code is pretty straightforward and could be copied into your own solution and easily modified to meet your specific requirements.
+For a quick & simple implementation, the latest release is available in the [NuGet Gallery](https://www.nuget.org/packages/RunnethOverStudio.SerilogSinksMonoGameGL/). However, the source code is pretty straightforward and could be copied into your own solution and easily modified to meet your specific requirements.
